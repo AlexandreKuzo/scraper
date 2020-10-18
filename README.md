@@ -30,7 +30,7 @@ Etape 5: dans le terminal, revenez au dossier principal en tapant les commandes 
 Accédez à 'myenv' en tapant ``cd myenv``
 Activez ensuite l'environnement virtuel avec la commande ``source bin/activate``
 Le programme est prêt à travailler en Python. Les commandes pour le faire fonctionner commenceront avec ``python3 nom_du_fichier.py``
-## Pensez bien à installer BeautifulSoup4 et Requests depuis ``myenv`` ``pip install beautifulsoup4``et ``pip install requests`` 
+**Pensez bien à installer BeautifulSoup4 et Requests depuis ``myenv`` ``pip install beautifulsoup4``et ``pip install requests``**
 
 ## Executer le script
 
